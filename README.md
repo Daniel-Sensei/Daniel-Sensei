@@ -1,9 +1,9 @@
 # Hi there, I'm Daniel Curcio! 👋
 
-### 🧠 AI Engineer & Researcher | Dual Degree MSc Candidate
+### 🧠 Software Engineer | Dual Degree MSc Candidate
 Currently completing a Dual Degree program in Artificial Intelligence (Italy) and Software Engineering (Austria).
 
-- 🔭 **I’m currently working on:** Multi-Task Deep Learning for Medical Imaging & AI Agents.
+- 🔭 **I’m currently working on:** Detecting and Investigating Complex Connectome Motifs in the Adult Drosophila.
 - 🎓 **Education:** MSc in Computer Science (Unical) & MSc in Software Engineering (FH Upper Austria).
 - ⚡ **Focus:** Deep Learning, Big Data Analytics, CUDA Optimization, and Hybrid AI Systems.
 
